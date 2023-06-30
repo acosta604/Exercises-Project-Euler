@@ -15,6 +15,7 @@ out
 .iml
 .xml
 .idea
+.gitignore
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
